@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Update/Scene/Aundemo.unity
+  isLoaded: 1
+  isActive: 1
